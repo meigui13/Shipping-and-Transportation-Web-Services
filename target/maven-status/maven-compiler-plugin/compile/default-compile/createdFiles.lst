@@ -1,0 +1,12 @@
+com\li\controller\WuLiuController.class
+com\li\mapper\WuLiuMapper.class
+com\li\entity\WuLiu.class
+com\li\DemoApplication.class
+com\li\entity\User.class
+com\li\common\Result.class
+com\li\mapper\UserMapper.class
+com\li\common\ChineseCharToEn.class
+com\li\controller\UserController.class
+com\li\common\config\Configration.class
+com\li\common\config\MybatisPlusConfig.class
+com\li\common\PingYinUtil.class
